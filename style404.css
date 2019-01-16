@@ -1,0 +1,31 @@
+html body {
+    background-image: url(/home/user/Documents/HTML/Page404/404.gif);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+body {
+
+
+}
+h1 {font-style: italic;
+    font-family: 'Press Start 2P', cursive;
+    color: darkred;
+}
+.Pagenotfound {
+    font-style: normal;
+    font-family: 'Press Start 2P', cursive;
+    color: darkred;
+    margin-left: 505px;
+    padding-top: 680px;
+    display: flex;
+    flex-direction: row;
+}
+p {
+    margin-left: 510px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+    color: darkred;
+}
